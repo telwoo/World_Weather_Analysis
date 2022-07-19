@@ -1,2 +1,18 @@
 # World_Weather_Analysis
-Module 6 Weather 
+
+## Purpose
+The overall purpose of this challenge was to determine vacation locations for travelers to be able to travel to, and determien the overall routine that would need to be taken in order to travel to those specific areas.
+
+## Results
+The results varied based on each location, but I selected four locations to be able to travel to:
+- Tabas
+- Riyadh
+- Hovd
+- Nikolskoye
+
+Each location was determined to have a signifcant amount of distance from one another. See image below:
+
+![Uploading WeatherPy_travel_map_markers.png…]()
+
+## Conclusion
+Overall, the weather in the locations above showed a nice vacation spot for travels. I plan to use this Google Platform for vacationing in the future.
